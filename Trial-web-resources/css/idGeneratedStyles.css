@@ -1,0 +1,769 @@
+@-webkit-keyframes _idGenKeyFrames-0 {
+0% { opacity:0; }
+100% { opacity:1; }
+} 
+@keyframes _idGenKeyFrames-0 {
+0% { opacity:0; }
+100% { opacity:1; }
+} 
+@-webkit-keyframes _idGenKeyFrames-1 {
+0% { -webkit-transform:translate(0px,0px) rotate(0deg) ; }
+17.3913% { -webkit-transform:translate(0px,0px) rotate(20deg) ; }
+39.1304% { -webkit-transform:translate(0px,0px) rotate(-20deg) ; }
+60.8696% { -webkit-transform:translate(0px,0px) rotate(20deg) ; }
+82.6087% { -webkit-transform:translate(0px,0px) rotate(-20deg) ; }
+100% { -webkit-transform:translate(0px,0px) rotate(0deg) ; }
+} 
+@keyframes _idGenKeyFrames-1 {
+0% { transform:translate(0px,0px) rotate(0deg) ; }
+17.3913% { transform:translate(0px,0px) rotate(20deg) ; }
+39.1304% { transform:translate(0px,0px) rotate(-20deg) ; }
+60.8696% { transform:translate(0px,0px) rotate(20deg) ; }
+82.6087% { transform:translate(0px,0px) rotate(-20deg) ; }
+100% { transform:translate(0px,0px) rotate(0deg) ; }
+} 
+@-webkit-keyframes _idGenKeyFrames-2 {
+0% { opacity:1; }
+100% { opacity:0; }
+} 
+@keyframes _idGenKeyFrames-2 {
+0% { opacity:1; }
+100% { opacity:0; }
+} 
+@-webkit-keyframes _idGenKeyFrames-3 {
+0% { opacity:0; }
+100% { opacity:1; }
+} 
+@keyframes _idGenKeyFrames-3 {
+0% { opacity:0; }
+100% { opacity:1; }
+} 
+@-webkit-keyframes _idGenKeyFrames-4 {
+0% { -webkit-transform:translate(0px,0px) rotate(0deg) ; }
+17.3913% { -webkit-transform:translate(0px,0px) rotate(20deg) ; }
+39.1304% { -webkit-transform:translate(0px,0px) rotate(-20deg) ; }
+60.8696% { -webkit-transform:translate(0px,0px) rotate(20deg) ; }
+82.6087% { -webkit-transform:translate(0px,0px) rotate(-20deg) ; }
+100% { -webkit-transform:translate(0px,0px) rotate(0deg) ; }
+} 
+@keyframes _idGenKeyFrames-4 {
+0% { transform:translate(0px,0px) rotate(0deg) ; }
+17.3913% { transform:translate(0px,0px) rotate(20deg) ; }
+39.1304% { transform:translate(0px,0px) rotate(-20deg) ; }
+60.8696% { transform:translate(0px,0px) rotate(20deg) ; }
+82.6087% { transform:translate(0px,0px) rotate(-20deg) ; }
+100% { transform:translate(0px,0px) rotate(0deg) ; }
+} 
+@-webkit-keyframes _idGenKeyFrames-5 {
+0% { opacity:1; }
+100% { opacity:0; }
+} 
+@keyframes _idGenKeyFrames-5 {
+0% { opacity:1; }
+100% { opacity:0; }
+} 
+@-webkit-keyframes _idGenKeyFrames-6 {
+0% { opacity:0; }
+100% { opacity:1; }
+} 
+@keyframes _idGenKeyFrames-6 {
+0% { opacity:0; }
+100% { opacity:1; }
+} 
+@-webkit-keyframes _idGenKeyFrames-7 {
+0% { -webkit-transform:translate(-307px,0px) ; opacity:0; }
+4.3478% { -webkit-transform:translate(-269px,0px) ; opacity:0.043; }
+8.6957% { -webkit-transform:translate(-234px,0px) ; opacity:0.087; }
+13.0435% { -webkit-transform:translate(-202px,0px) ; opacity:0.13; }
+17.3913% { -webkit-transform:translate(-173px,0px) ; opacity:0.174; }
+21.7391% { -webkit-transform:translate(-147px,0px) ; opacity:0.217; }
+26.087% { -webkit-transform:translate(-124px,0px) ; opacity:0.261; }
+30.4348% { -webkit-transform:translate(-103px,0px) ; opacity:0.304; }
+34.7826% { -webkit-transform:translate(-85px,0px) ; opacity:0.348; }
+39.1304% { -webkit-transform:translate(-69px,0px) ; opacity:0.391; }
+43.4783% { -webkit-transform:translate(-55px,0px) ; opacity:0.435; }
+47.8261% { -webkit-transform:translate(-44px,0px) ; opacity:0.478; }
+52.1739% { -webkit-transform:translate(-34px,0px) ; opacity:0.522; }
+56.5217% { -webkit-transform:translate(-25px,0px) ; opacity:0.565; }
+60.8696% { -webkit-transform:translate(-18px,0px) ; opacity:0.609; }
+65.2174% { -webkit-transform:translate(-13px,0px) ; opacity:0.652; }
+69.5652% { -webkit-transform:translate(-9px,0px) ; opacity:0.696; }
+73.913% { -webkit-transform:translate(-5px,0px) ; opacity:0.739; }
+78.2609% { -webkit-transform:translate(-3px,0px) ; opacity:0.783; }
+82.6087% { -webkit-transform:translate(-2px,0px) ; opacity:0.826; }
+86.9565% { -webkit-transform:translate(-1px,0px) ; opacity:0.87; }
+91.3043% { -webkit-transform:translate(0px,0px) ; opacity:0.913; }
+95.6522% { -webkit-transform:translate(0px,0px) ; opacity:0.957; }
+100% { -webkit-transform:translate(0px,0px) ; opacity:1; }
+} 
+@keyframes _idGenKeyFrames-7 {
+0% { transform:translate(-307px,0px) ; opacity:0; }
+4.3478% { transform:translate(-269px,0px) ; opacity:0.043; }
+8.6957% { transform:translate(-234px,0px) ; opacity:0.087; }
+13.0435% { transform:translate(-202px,0px) ; opacity:0.13; }
+17.3913% { transform:translate(-173px,0px) ; opacity:0.174; }
+21.7391% { transform:translate(-147px,0px) ; opacity:0.217; }
+26.087% { transform:translate(-124px,0px) ; opacity:0.261; }
+30.4348% { transform:translate(-103px,0px) ; opacity:0.304; }
+34.7826% { transform:translate(-85px,0px) ; opacity:0.348; }
+39.1304% { transform:translate(-69px,0px) ; opacity:0.391; }
+43.4783% { transform:translate(-55px,0px) ; opacity:0.435; }
+47.8261% { transform:translate(-44px,0px) ; opacity:0.478; }
+52.1739% { transform:translate(-34px,0px) ; opacity:0.522; }
+56.5217% { transform:translate(-25px,0px) ; opacity:0.565; }
+60.8696% { transform:translate(-18px,0px) ; opacity:0.609; }
+65.2174% { transform:translate(-13px,0px) ; opacity:0.652; }
+69.5652% { transform:translate(-9px,0px) ; opacity:0.696; }
+73.913% { transform:translate(-5px,0px) ; opacity:0.739; }
+78.2609% { transform:translate(-3px,0px) ; opacity:0.783; }
+82.6087% { transform:translate(-2px,0px) ; opacity:0.826; }
+86.9565% { transform:translate(-1px,0px) ; opacity:0.87; }
+91.3043% { transform:translate(0px,0px) ; opacity:0.913; }
+95.6522% { transform:translate(0px,0px) ; opacity:0.957; }
+100% { transform:translate(0px,0px) ; opacity:1; }
+} 
+@-webkit-keyframes _idGenKeyFrames-8 {
+0% { -webkit-transform:translate(307px,0px) ; opacity:0; }
+4.3478% { -webkit-transform:translate(269px,0px) ; opacity:0.043; }
+8.6957% { -webkit-transform:translate(234px,0px) ; opacity:0.087; }
+13.0435% { -webkit-transform:translate(202px,0px) ; opacity:0.13; }
+17.3913% { -webkit-transform:translate(173px,0px) ; opacity:0.174; }
+21.7391% { -webkit-transform:translate(147px,0px) ; opacity:0.217; }
+26.087% { -webkit-transform:translate(124px,0px) ; opacity:0.261; }
+30.4348% { -webkit-transform:translate(103px,0px) ; opacity:0.304; }
+34.7826% { -webkit-transform:translate(85px,0px) ; opacity:0.348; }
+39.1304% { -webkit-transform:translate(69px,0px) ; opacity:0.391; }
+43.4783% { -webkit-transform:translate(55px,0px) ; opacity:0.435; }
+47.8261% { -webkit-transform:translate(44px,0px) ; opacity:0.478; }
+52.1739% { -webkit-transform:translate(34px,0px) ; opacity:0.522; }
+56.5217% { -webkit-transform:translate(25px,0px) ; opacity:0.565; }
+60.8696% { -webkit-transform:translate(18px,0px) ; opacity:0.609; }
+65.2174% { -webkit-transform:translate(13px,0px) ; opacity:0.652; }
+69.5652% { -webkit-transform:translate(9px,0px) ; opacity:0.696; }
+73.913% { -webkit-transform:translate(5px,0px) ; opacity:0.739; }
+78.2609% { -webkit-transform:translate(3px,0px) ; opacity:0.783; }
+82.6087% { -webkit-transform:translate(2px,0px) ; opacity:0.826; }
+86.9565% { -webkit-transform:translate(1px,0px) ; opacity:0.87; }
+91.3043% { -webkit-transform:translate(0px,0px) ; opacity:0.913; }
+95.6522% { -webkit-transform:translate(0px,0px) ; opacity:0.957; }
+100% { -webkit-transform:translate(0px,0px) ; opacity:1; }
+} 
+@keyframes _idGenKeyFrames-8 {
+0% { transform:translate(307px,0px) ; opacity:0; }
+4.3478% { transform:translate(269px,0px) ; opacity:0.043; }
+8.6957% { transform:translate(234px,0px) ; opacity:0.087; }
+13.0435% { transform:translate(202px,0px) ; opacity:0.13; }
+17.3913% { transform:translate(173px,0px) ; opacity:0.174; }
+21.7391% { transform:translate(147px,0px) ; opacity:0.217; }
+26.087% { transform:translate(124px,0px) ; opacity:0.261; }
+30.4348% { transform:translate(103px,0px) ; opacity:0.304; }
+34.7826% { transform:translate(85px,0px) ; opacity:0.348; }
+39.1304% { transform:translate(69px,0px) ; opacity:0.391; }
+43.4783% { transform:translate(55px,0px) ; opacity:0.435; }
+47.8261% { transform:translate(44px,0px) ; opacity:0.478; }
+52.1739% { transform:translate(34px,0px) ; opacity:0.522; }
+56.5217% { transform:translate(25px,0px) ; opacity:0.565; }
+60.8696% { transform:translate(18px,0px) ; opacity:0.609; }
+65.2174% { transform:translate(13px,0px) ; opacity:0.652; }
+69.5652% { transform:translate(9px,0px) ; opacity:0.696; }
+73.913% { transform:translate(5px,0px) ; opacity:0.739; }
+78.2609% { transform:translate(3px,0px) ; opacity:0.783; }
+82.6087% { transform:translate(2px,0px) ; opacity:0.826; }
+86.9565% { transform:translate(1px,0px) ; opacity:0.87; }
+91.3043% { transform:translate(0px,0px) ; opacity:0.913; }
+95.6522% { transform:translate(0px,0px) ; opacity:0.957; }
+100% { transform:translate(0px,0px) ; opacity:1; }
+} 
+@-webkit-keyframes _idGenKeyFrames-9 {
+0% { -webkit-transform:translate(-307px,0px) ; opacity:0; }
+4.3478% { -webkit-transform:translate(-269px,0px) ; opacity:0.043; }
+8.6957% { -webkit-transform:translate(-234px,0px) ; opacity:0.087; }
+13.0435% { -webkit-transform:translate(-202px,0px) ; opacity:0.13; }
+17.3913% { -webkit-transform:translate(-173px,0px) ; opacity:0.174; }
+21.7391% { -webkit-transform:translate(-147px,0px) ; opacity:0.217; }
+26.087% { -webkit-transform:translate(-124px,0px) ; opacity:0.261; }
+30.4348% { -webkit-transform:translate(-103px,0px) ; opacity:0.304; }
+34.7826% { -webkit-transform:translate(-85px,0px) ; opacity:0.348; }
+39.1304% { -webkit-transform:translate(-69px,0px) ; opacity:0.391; }
+43.4783% { -webkit-transform:translate(-55px,0px) ; opacity:0.435; }
+47.8261% { -webkit-transform:translate(-44px,0px) ; opacity:0.478; }
+52.1739% { -webkit-transform:translate(-34px,0px) ; opacity:0.522; }
+56.5217% { -webkit-transform:translate(-25px,0px) ; opacity:0.565; }
+60.8696% { -webkit-transform:translate(-18px,0px) ; opacity:0.609; }
+65.2174% { -webkit-transform:translate(-13px,0px) ; opacity:0.652; }
+69.5652% { -webkit-transform:translate(-9px,0px) ; opacity:0.696; }
+73.913% { -webkit-transform:translate(-5px,0px) ; opacity:0.739; }
+78.2609% { -webkit-transform:translate(-3px,0px) ; opacity:0.783; }
+82.6087% { -webkit-transform:translate(-2px,0px) ; opacity:0.826; }
+86.9565% { -webkit-transform:translate(-1px,0px) ; opacity:0.87; }
+91.3043% { -webkit-transform:translate(0px,0px) ; opacity:0.913; }
+95.6522% { -webkit-transform:translate(0px,0px) ; opacity:0.957; }
+100% { -webkit-transform:translate(0px,0px) ; opacity:1; }
+} 
+@keyframes _idGenKeyFrames-9 {
+0% { transform:translate(-307px,0px) ; opacity:0; }
+4.3478% { transform:translate(-269px,0px) ; opacity:0.043; }
+8.6957% { transform:translate(-234px,0px) ; opacity:0.087; }
+13.0435% { transform:translate(-202px,0px) ; opacity:0.13; }
+17.3913% { transform:translate(-173px,0px) ; opacity:0.174; }
+21.7391% { transform:translate(-147px,0px) ; opacity:0.217; }
+26.087% { transform:translate(-124px,0px) ; opacity:0.261; }
+30.4348% { transform:translate(-103px,0px) ; opacity:0.304; }
+34.7826% { transform:translate(-85px,0px) ; opacity:0.348; }
+39.1304% { transform:translate(-69px,0px) ; opacity:0.391; }
+43.4783% { transform:translate(-55px,0px) ; opacity:0.435; }
+47.8261% { transform:translate(-44px,0px) ; opacity:0.478; }
+52.1739% { transform:translate(-34px,0px) ; opacity:0.522; }
+56.5217% { transform:translate(-25px,0px) ; opacity:0.565; }
+60.8696% { transform:translate(-18px,0px) ; opacity:0.609; }
+65.2174% { transform:translate(-13px,0px) ; opacity:0.652; }
+69.5652% { transform:translate(-9px,0px) ; opacity:0.696; }
+73.913% { transform:translate(-5px,0px) ; opacity:0.739; }
+78.2609% { transform:translate(-3px,0px) ; opacity:0.783; }
+82.6087% { transform:translate(-2px,0px) ; opacity:0.826; }
+86.9565% { transform:translate(-1px,0px) ; opacity:0.87; }
+91.3043% { transform:translate(0px,0px) ; opacity:0.913; }
+95.6522% { transform:translate(0px,0px) ; opacity:0.957; }
+100% { transform:translate(0px,0px) ; opacity:1; }
+} 
+@-webkit-keyframes _idGenKeyFrames-10 {
+0% { opacity:0; }
+100% { opacity:1; }
+} 
+@keyframes _idGenKeyFrames-10 {
+0% { opacity:0; }
+100% { opacity:1; }
+} 
+@-webkit-keyframes _idGenKeyFrames-11 {
+0% { opacity:0; }
+100% { opacity:1; }
+} 
+@keyframes _idGenKeyFrames-11 {
+0% { opacity:0; }
+100% { opacity:1; }
+} 
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+	text-rendering:optimizeSpeed;
+}
+div.基本图形框架 {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.基本文本框架 {
+	border-style:solid;
+}
+p.ParaOverride-1 {
+	line-height:1;
+	white-space:nowrap;
+}
+span.CharOverride-1 {
+	color:#000000;
+	font-family:"Adobe Song Std L", serif;
+	font-size:240px;
+	font-style:normal;
+	font-weight:300;
+}
+#_idContainer000 {
+	height:308px;
+	left:349px;
+	position:absolute;
+	top:516px;
+	width:465px;
+}
+#_idContainer001 {
+	height:316px;
+	left:349px;
+	position:absolute;
+	top:846px;
+	width:465px;
+}
+#_idVideo000 {
+	-ms-transform:translate(0.581%,0.000%) rotate(0.000deg) skew(0.000deg) scale(0.988,0.999);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.581%,0.000%) rotate(0.000deg) skew(0.000deg) scale(0.988,0.999);
+	-webkit-transform-origin:0% 0%;
+	height:100.00%;
+	object-fit:fill;
+	transform:translate(0.581%,0.000%) rotate(0.000deg) skew(0.000deg) scale(0.988,0.999);
+	transform:translate(0.581%,0.000%) rotate(0.000deg) skew(0.000deg) scale(0.988,0.999);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:100.00%;
+}
+#_idContainer002 {
+	-ms-transform:translate(28.346px,28.346px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(28.346px,28.346px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/2.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:436.54px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	text-align:left;
+	top:0px;
+	transform:translate(28.346px,28.346px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(28.346px,28.346px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:785.20px;
+}
+#_idContainer003 {
+	-webkit-perspective:1px;
+	height:255px;
+	left:45px;
+	position:absolute;
+	top:513px;
+	width:244px;
+}
+#_idContainer004 {
+	-ms-transform:translate(45.354px,778.110px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(45.354px,778.110px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:138.19px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(45.354px,778.110px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(45.354px,778.110px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:243.78px;
+}
+#_idContainer005 {
+	-ms-transform:translate(45.354px,931.181px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(45.354px,931.181px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:161.57px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(45.354px,931.181px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(45.354px,931.181px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:243.78px;
+}
+#_idContainer006, #_idContainer012 {
+	-ms-transform:translate(741.889px,1090.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(741.889px,1090.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:100.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(741.889px,1090.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(741.889px,1090.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:100.00px;
+}
+#_idContainer007 {
+	-ms-transform:translate(785.905px,1159.764px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-perspective:1px;
+	-webkit-transform:translate(785.905px,1159.764px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:31.79px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(785.905px,1159.764px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(785.905px,1159.764px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:27.64px;
+}
+#_idContainer008 {
+	-webkit-perspective:1px;
+	height:255px;
+	left:400px;
+	position:absolute;
+	top:268px;
+	width:399px;
+}
+#_idContainer009 {
+	height:269px;
+	left:30px;
+	position:absolute;
+	top:262px;
+	width:352px;
+}
+#_idContainer010 {
+	height:343px;
+	left:381px;
+	position:absolute;
+	top:553px;
+	width:433px;
+}
+#_idContainer011 {
+	-webkit-perspective:1px;
+	height:329px;
+	left:30px;
+	position:absolute;
+	top:551px;
+	width:324px;
+}
+#_idContainer013 {
+	-ms-transform:translate(-0.001px,1090.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(-0.001px,1090.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:100.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(-0.001px,1090.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(-0.001px,1090.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:100.00px;
+}
+#_idContainer014 {
+	-ms-transform:translate(28.346px,1159.764px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-perspective:1px;
+	-webkit-transform:translate(28.346px,1159.764px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:22.57px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(28.346px,1159.764px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(28.346px,1159.764px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:17.01px;
+}
+#_idContainer015 {
+	height:500px;
+	overflow:hidden;
+	width:785px;
+	-ms-transform:translate(28.346px,368.503px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(28.346px,368.503px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(28.346px,368.503px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(28.346px,368.503px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+}
+#_idHTMLPageItem000 {
+	-ms-transform:translate(0.000px,25.461px) rotate(0.000deg) skew(0.000deg) scale(1.000,0.898);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,25.461px) rotate(0.000deg) skew(0.000deg) scale(1.000,0.898);
+	-webkit-transform-origin:0% 0%;
+	height:100.00%;
+	transform:translate(0.000px,25.461px) rotate(0.000deg) skew(0.000deg) scale(1.000,0.898);
+	transform:translate(0.000px,25.461px) rotate(0.000deg) skew(0.000deg) scale(1.000,0.898);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:100.00%;
+}
+#_idContainer016 {
+	-ms-transform:translate(0.000px,1090.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,1090.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:100.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,1090.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,1090.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:100.00px;
+}
+#_idContainer017 {
+	-ms-transform:translate(788.031px,1159.764px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(788.031px,1159.764px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:23.28px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(788.031px,1159.764px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(788.031px,1159.764px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:25.51px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+img._idGenObjectAttribute-2 {
+	left:0px;
+	position:absolute;
+	top:0px;
+}
+div._idGenObjectAttribute-3 {
+	height:437px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	width:785px;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectStyle-Disabled {
+	background-color:transparent;
+	border-width:0px;
+}
+div._idGenPlayAnimation-1 {
+	-webkit-animation-delay:15.104s;
+	-webkit-animation-duration:1.000s;
+	-webkit-animation-fill-mode:forwards;
+	-webkit-animation-iteration-count:1;
+	-webkit-animation-name:_idGenKeyFrames-0;
+	-webkit-animation-timing-function:linear;
+	-webkit-transform-origin:50% 50%;
+	animation-delay:15.104s;
+	animation-duration:1.000s;
+	animation-fill-mode:forwards;
+	animation-iteration-count:1;
+	animation-name:_idGenKeyFrames-0;
+	animation-timing-function:linear;
+	transform-origin:50% 50%;
+}
+div._idGenPlayAnimation-2 {
+	-webkit-animation-delay:16.104s;
+	-webkit-animation-duration:1.000s;
+	-webkit-animation-fill-mode:forwards;
+	-webkit-animation-iteration-count:1;
+	-webkit-animation-name:_idGenKeyFrames-1;
+	-webkit-animation-timing-function:linear;
+	-webkit-transform-origin:50% 50%;
+	animation-delay:16.104s;
+	animation-duration:1.000s;
+	animation-fill-mode:forwards;
+	animation-iteration-count:1;
+	animation-name:_idGenKeyFrames-1;
+	animation-timing-function:linear;
+	transform-origin:50% 50%;
+}
+div._idGenPlayAnimation-3 {
+	-webkit-animation-delay:17.104s;
+	-webkit-animation-duration:1.000s;
+	-webkit-animation-fill-mode:forwards;
+	-webkit-animation-iteration-count:1;
+	-webkit-animation-name:_idGenKeyFrames-2;
+	-webkit-animation-timing-function:linear;
+	-webkit-transform-origin:50% 50%;
+	animation-delay:17.104s;
+	animation-duration:1.000s;
+	animation-fill-mode:forwards;
+	animation-iteration-count:1;
+	animation-name:_idGenKeyFrames-2;
+	animation-timing-function:linear;
+	transform-origin:50% 50%;
+}
+div._idGenPlayAnimation-4 {
+	-webkit-animation-delay:0.000s;
+	-webkit-animation-duration:1.000s;
+	-webkit-animation-fill-mode:forwards;
+	-webkit-animation-iteration-count:1;
+	-webkit-animation-name:_idGenKeyFrames-3;
+	-webkit-animation-timing-function:linear;
+	-webkit-transform-origin:50% 50%;
+	animation-delay:0.000s;
+	animation-duration:1.000s;
+	animation-fill-mode:forwards;
+	animation-iteration-count:1;
+	animation-name:_idGenKeyFrames-3;
+	animation-timing-function:linear;
+	transform-origin:50% 50%;
+}
+div._idGenPlayAnimation-5 {
+	-webkit-animation-delay:0.000s;
+	-webkit-animation-duration:1.000s;
+	-webkit-animation-fill-mode:forwards;
+	-webkit-animation-iteration-count:1;
+	-webkit-animation-name:_idGenKeyFrames-4;
+	-webkit-animation-timing-function:linear;
+	-webkit-transform-origin:50% 50%;
+	animation-delay:0.000s;
+	animation-duration:1.000s;
+	animation-fill-mode:forwards;
+	animation-iteration-count:1;
+	animation-name:_idGenKeyFrames-4;
+	animation-timing-function:linear;
+	transform-origin:50% 50%;
+}
+div._idGenPlayAnimation-6 {
+	-webkit-animation-delay:0.000s;
+	-webkit-animation-duration:1.000s;
+	-webkit-animation-fill-mode:forwards;
+	-webkit-animation-iteration-count:1;
+	-webkit-animation-name:_idGenKeyFrames-5;
+	-webkit-animation-timing-function:linear;
+	-webkit-transform-origin:50% 50%;
+	animation-delay:0.000s;
+	animation-duration:1.000s;
+	animation-fill-mode:forwards;
+	animation-iteration-count:1;
+	animation-name:_idGenKeyFrames-5;
+	animation-timing-function:linear;
+	transform-origin:50% 50%;
+}
+div._idGenPlayAnimation-7 {
+	-webkit-animation-delay:0.000s;
+	-webkit-animation-duration:1.000s;
+	-webkit-animation-fill-mode:forwards;
+	-webkit-animation-iteration-count:1;
+	-webkit-animation-name:_idGenKeyFrames-6;
+	-webkit-animation-timing-function:linear;
+	-webkit-transform-origin:50% 50%;
+	animation-delay:0.000s;
+	animation-duration:1.000s;
+	animation-fill-mode:forwards;
+	animation-iteration-count:1;
+	animation-name:_idGenKeyFrames-6;
+	animation-timing-function:linear;
+	transform-origin:50% 50%;
+}
+div._idGenPlayAnimation-8 {
+	-webkit-animation-delay:1.000s;
+	-webkit-animation-duration:1.000s;
+	-webkit-animation-fill-mode:forwards;
+	-webkit-animation-iteration-count:1;
+	-webkit-animation-name:_idGenKeyFrames-7;
+	-webkit-animation-timing-function:linear;
+	-webkit-transform-origin:50% 50%;
+	animation-delay:1.000s;
+	animation-duration:1.000s;
+	animation-fill-mode:forwards;
+	animation-iteration-count:1;
+	animation-name:_idGenKeyFrames-7;
+	animation-timing-function:linear;
+	transform-origin:50% 50%;
+}
+div._idGenPlayAnimation-9 {
+	-webkit-animation-delay:2.000s;
+	-webkit-animation-duration:1.000s;
+	-webkit-animation-fill-mode:forwards;
+	-webkit-animation-iteration-count:1;
+	-webkit-animation-name:_idGenKeyFrames-8;
+	-webkit-animation-timing-function:linear;
+	-webkit-transform-origin:50% 50%;
+	animation-delay:2.000s;
+	animation-duration:1.000s;
+	animation-fill-mode:forwards;
+	animation-iteration-count:1;
+	animation-name:_idGenKeyFrames-8;
+	animation-timing-function:linear;
+	transform-origin:50% 50%;
+}
+div._idGenPlayAnimation-10 {
+	-webkit-animation-delay:0.000s;
+	-webkit-animation-duration:1.000s;
+	-webkit-animation-fill-mode:forwards;
+	-webkit-animation-iteration-count:1;
+	-webkit-animation-name:_idGenKeyFrames-9;
+	-webkit-animation-timing-function:linear;
+	-webkit-transform-origin:50% 50%;
+	animation-delay:0.000s;
+	animation-duration:1.000s;
+	animation-fill-mode:forwards;
+	animation-iteration-count:1;
+	animation-name:_idGenKeyFrames-9;
+	animation-timing-function:linear;
+	transform-origin:50% 50%;
+}
+div._idGenPlayAnimation-11 {
+	-webkit-animation-delay:0.000s;
+	-webkit-animation-duration:1.000s;
+	-webkit-animation-fill-mode:forwards;
+	-webkit-animation-iteration-count:1;
+	-webkit-animation-name:_idGenKeyFrames-10;
+	-webkit-animation-timing-function:linear;
+	-webkit-transform-origin:50% 50%;
+	animation-delay:0.000s;
+	animation-duration:1.000s;
+	animation-fill-mode:forwards;
+	animation-iteration-count:1;
+	animation-name:_idGenKeyFrames-10;
+	animation-timing-function:linear;
+	transform-origin:50% 50%;
+}
+div._idGenPlayAnimation-12 {
+	-webkit-animation-delay:0.000s;
+	-webkit-animation-duration:1.000s;
+	-webkit-animation-fill-mode:forwards;
+	-webkit-animation-iteration-count:1;
+	-webkit-animation-name:_idGenKeyFrames-11;
+	-webkit-animation-timing-function:linear;
+	-webkit-transform-origin:50% 50%;
+	animation-delay:0.000s;
+	animation-duration:1.000s;
+	animation-fill-mode:forwards;
+	animation-iteration-count:1;
+	animation-name:_idGenKeyFrames-11;
+	animation-timing-function:linear;
+	transform-origin:50% 50%;
+}
+div._idGenAnimationStart-1 {
+	opacity:0;
+}
+div._idGenAnimationStart-2 {
+	-webkit-transform:translate(0px,0px) rotate(0deg) ;
+	-webkit-transform-origin:50% 50%;
+	transform:translate(0px,0px) rotate(0deg) ;
+	transform-origin:50% 50%;
+}
+div._idGenAnimationStart-3 {
+	opacity:1;
+}
+div._idGenAnimationStart-4 {
+	-webkit-transform:translate(-307px,0px) ;
+	-webkit-transform-origin:50% 50%;
+	opacity:0;
+	transform:translate(-307px,0px) ;
+	transform-origin:50% 50%;
+}
+div._idGenAnimationStart-5 {
+	-webkit-transform:translate(307px,0px) ;
+	-webkit-transform-origin:50% 50%;
+	opacity:0;
+	transform:translate(307px,0px) ;
+	transform-origin:50% 50%;
+}
+div._idGenAnimationEnd-1 {
+	opacity:1;
+}
+div._idGenAnimationEnd-2 {
+	-webkit-transform:translate(0px,0px) rotate(0deg) ;
+	-webkit-transform-origin:50% 50%;
+	transform:translate(0px,0px) rotate(0deg) ;
+	transform-origin:50% 50%;
+}
+div._idGenAnimationEnd-3 {
+	opacity:0;
+}
+div._idGenAnimationEnd-4 {
+	-webkit-transform:translate(0px,0px) ;
+	-webkit-transform-origin:50% 50%;
+	opacity:1;
+	transform:translate(0px,0px) ;
+	transform-origin:50% 50%;
+}
+div._idGenStateHide, div._idGenStateHide *{
+	visibility:hidden;
+}
